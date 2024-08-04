@@ -56,6 +56,8 @@ Next, let us try getting a cleaner response and get out of prompt and into jupyt
 conda install conda-forge::langchain
 pip install langchain-community langchain-core
 ```
-With this, we are set to run the notebook that's named, "LLM_trial" in this repo.
+With this, we are set to run the notebook.
+Run `ollama serve` on the command line, check http://localhost:11434/ in your browser to see if you get a message saying, "Ollama is running".  
+Then, fire up the notebook, "LLM_trial.ipynb" from this repo.
 
 To be continued.
