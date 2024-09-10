@@ -6,7 +6,11 @@ Personally, I want to use open source and gain applied engineering experience of
 1. Ollama - This will allow me to run open source LLMs locally.
 2. LangChain - This will give me a framework to develop an LLM app.
 
-I aim to use jupyter notebooks for coding and development under conda virtual environment.
+Using google's colab and Analytics Vidhya's courses, I created [this](https://github.com/OrganicNN/LLM_project/blob/main/Prompt_engineering_using_ollama_llama3_1.ipynb) notebook to learn about prompt engineering.
+There, we can explore various LLMs (in the notebook I have used llama3.1 but can use mistral or another offered by ollama (depending on what your google colab can handle))
+
+On my local machine, I wish to use jupyter notebooks for coding and development under conda virtual environment.
+The following instructions are for getting started on your local machine. 
 
 ---
 
